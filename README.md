@@ -1,2 +1,2 @@
 # Poonam-LHG-
-Leetcode, HackerRank, and GeeksforGeeks 
+Number Of Codes, Queries done in Leetcode, HackerRank, and GeeksforGeeks. 
